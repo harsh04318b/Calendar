@@ -1,4 +1,5 @@
-#include<stdio.h> #define TRUE	1
+#include<stdio.h> 
+#define TRUE	1
 #define FALSE	0
 
 int days_in_month[]={0,31,28,31,30,31,30,31,31,30,31,30,31};
